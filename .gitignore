@@ -1,0 +1,19 @@
+# Ignore Coq build files in all directories
+**/*.aux
+**/*.glob
+**/*.glo
+**/*.v.d
+**/*.vo
+**/*.vos
+**/*.vok
+**/*.vio
+**/*.cmi
+**/*.cmx
+**/*.cmo
+**/*.cmx
+**/*.cma
+**/*.cmxa
+**/*.ml4
+**/*.annot
+**/*.output
+
